@@ -1,0 +1,18 @@
+Running data set
+Best Accuracy : 0.9528
+{'vocab_size': 5000, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 7, 'embedding_dim': 50}
+Test Accuracy : 0.9570
+
+Running dataset 
+Best Accuracy : 0.9589 
+{'num_filters': 64, 'maxlen': 100, 'kernel_size': 7, 'embedding_dim': 50} 
+Test Accuracy : 0.9610
+
+Running dataset 
+Best Accuracy : 0.9587 
+{'num_filters': 32, 'maxlen': 100, 'kernel_size': 7, 'embedding_dim': 50} 
+Test Accuracy : 0.9610
+
+Best Accuracy : 0.9488 
+{'num_filters': 64, 'maxlen': 100, 'kernel_size': 3, 'embedding_dim': 50} 
+Test Accuracy : 0.9440
